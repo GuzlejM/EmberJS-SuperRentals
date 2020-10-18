@@ -35,4 +35,8 @@ module('Unit | Model | rental', function(hooks) {
     rental.category = 'Estate';
     assert.equal(rental.type, 'Standalone');
   });
+<<<<<<< HEAD
 });
+=======
+});
+>>>>>>> dev
